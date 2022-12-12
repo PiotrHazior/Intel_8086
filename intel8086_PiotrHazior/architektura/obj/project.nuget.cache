@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "EDlJWopsNro+9ucyOGMi0hl/BxI48BCrL/QMKkw+cf9CorW/MgaVKXuMGqc9Vzk4y6BT3lpwB+JzA4//wzBlxA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\piotr\\Desktop\\8086-simulator-main\\architekturaProjekt\\intel8086-main\\architektura\\architektura.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\piotr\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512",
+    "C:\\Users\\piotr\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\piotr\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\piotr\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
