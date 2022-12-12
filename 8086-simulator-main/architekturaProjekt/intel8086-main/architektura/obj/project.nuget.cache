@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "KxU9X3RkHQy1ogh//bbfNz5sjyuAAaMeBQpW95bv3tZ81CbztY5NqelgL6wxY+eNtfoSt1EMkVrZ2SI0OT9THQ==",
+  "success": true,
+  "projectFilePath": "D:\\Users\\adam.nowak\\Desktop\\architekturaProjekt\\intel8086-main\\architektura\\architektura.csproj",
+  "expectedPackageFiles": [
+    "D:\\Users\\adam.nowak\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512",
+    "D:\\Users\\adam.nowak\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "D:\\Users\\adam.nowak\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "D:\\Users\\adam.nowak\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
